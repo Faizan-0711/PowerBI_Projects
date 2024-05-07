@@ -2,8 +2,8 @@
 ## Porject Objective:
 To create a PowerBI Weekly Dashboard of Credit Card Transaction Report and Credit Card Customer Report.
 ## Datatset:
-customer.csv
-credit_card.csv
+1. customer.csv
+2. credit_card.csv
 ## Steps:
 Data Collection through PostgreSQL --> Data Cleaning --> Data Processing --> Dax Queries --> Uncovering Insights --> Building Dashboards.
 ## Insights:
@@ -14,5 +14,5 @@ Data Collection through PostgreSQL --> Data Cleaning --> Data Processing --> Dax
 5. Blue and Silver Card are used more in overall transactions.
 6. Top contributing states are TN, NY and CA.
 ## Dashboards :
-Credit_Card_Report_Transaction
-Credit_Card_Report_Customer
+1. Credit_Card_Report_Transaction
+2. Credit_Card_Report_Customer
