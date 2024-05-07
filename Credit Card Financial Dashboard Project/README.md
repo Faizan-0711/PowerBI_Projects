@@ -1,5 +1,5 @@
 # Credit Card Financial Dashboard
-## Porject Objective:
+## Project Objective:
 To create a PowerBI Weekly Dashboard of Credit Card Transaction Report and Credit Card Customer Report.
 ## Datatset:
 1. customer.csv
